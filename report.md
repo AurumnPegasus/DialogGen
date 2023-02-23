@@ -45,6 +45,10 @@ The point of editing is to "learn" the appropriate key $k*$ for the subject and 
 
 ## Experiments on PersonaGPT
 
+Note that the source related to experiments are on this fork of the ROME source.
+
+<https://github.com/shashwat1002/rome_nnlg.git>
+
 Factual edits were made on personaGPT and vanilla GPT2-medium
 
 ```
